@@ -1,0 +1,9 @@
+{
+	"UdId": 2,
+	"LogType": "illegal access",
+	"JsonLogs": [
+		{ "Process": "com.android.chrome", "Url": "com.youtube.com", "Ip": "23.234.324.324" },
+		{ "Process": "com.android.chrome", "Url": "com.youtube.com", "Ip": "23.234.324.327" }
+	],
+	"StrLog": "mpgewrqio"
+}

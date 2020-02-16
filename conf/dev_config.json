@@ -1,0 +1,36 @@
+[
+
+	{ "Key": "AppName", "Value": "Dabory EndPoint" },
+	{ "Key": "JsonSendDir", "Value": "json-send/" },
+	{ "Key": "JsonReceiveDir", "Value": "json-receive/" },
+	{ "Key": "JsonServerParamsPath", "Value": "conf/server-params.json" },
+
+	{ "Key": "ShowReceivedJson", "Value": "Yes" },
+
+	{ "Key": "ApiType", "Value": "Rest" },
+	{ "Key": "AppName", "Value": "Dabory e-Commerse" },
+	{ "Key": "SiteName", "Value": "Dabory" },
+
+	{ "Key": "gRpcProtocol", "Value": "tcp" },
+	{ "Key": "gRpcAddr", "Value": "0.0.0.0" },
+	{ "Key": "gRpcPort", "Value": "10049" },
+
+	{ "Key": "KafkaTopic", "Value": "dbr-basic" },
+	{ "Key": "KafkaAddr", "Value": "127.0.0.1" },
+	{ "Key": "KafkaPort", "Value": "9092" },
+	{ "Key": "KafkaCosumerTimeout", "Value": "1" },
+
+	{ "Key": "RestConnect", "Value": "http://localhost:18080/" },
+	{ "Key": "RestTimeout", "Value": "1" },
+
+	{ "Key": "DbType", "Value": "mysql" },
+	{ "Key": "DbHost", "Value": "aurora-biozoa.clhvwtdfc3ov.ap-northeast-2.rds.amazonaws.com" },
+	{ "Key": "DbPort", "Value": "3306" },
+	{ "Key": "DbUser", "Value": "kangan_db" },
+	{ "Key": "DbPassword", "Value": "sAt7H4AynUBXvYJ7" },
+	{ "Key": "DbName", "Value": "kangan_db" },
+	{ "Key": "DbPrefix", "Value": "" },
+	{ "Key": "DbTz", "Value": "Asis/Seoul" },
+
+	{ "Key": "Dummy", "Value": "134200" }
+]

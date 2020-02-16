@@ -1,0 +1,22 @@
+[
+	{ "Key": "api_method", "Value": "" },
+	{ "Key": "server_port", "Value": "80" },
+	{ "Key": "server_addr", "Value": "" },
+
+	{ "Key": "user", "Value": "biozoa7" },
+	{ "Key": "orig_path_info", "Value": "/aaa.php" },
+	{ "Key": "script_name", "Value": "/aaa.php" },
+	{ "Key": "request_uri", "Value": "/aaa.php" },
+	{ "Key": "query_string", "Value": "" },
+	{ "Key": "redirect_url", "Value": "/aaa.php" },
+	{ "Key": "remote_port", "Value": "51542" },
+	{ "Key": "request_scheme", "Value": "http" },
+	{ "Key": "remote_addr", "Value": "182.228.226.119" },
+
+	{ "Key": "server_name", "Value": "biozoa7.dabory.com" },
+	{
+		"Name": "http_user_agent",
+		"Value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36"
+	},
+	{ "Key": "http_host", "Value": "biozoa7.dabory.com" }
+]

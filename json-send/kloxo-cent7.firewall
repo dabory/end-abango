@@ -1,0 +1,14 @@
+20 & 21 : FTP
+22 SSH
+25 (TCP) : SMTP
+53 (TCP & UDP) : DNS
+80 (TCP & UDP) : HTTP
+110 : POP3
+143 : IMAP
+443 : HTTPS
+3306: MySQL
+7777
+7778
+
+firewall-cmd --zone=public --permanent --add-port={20/tcp,21/tcp,22/tcp,25/tcp,53/tcp,80/tcp,110/tcp,143/tcp,443/tcp,3306/tcp,7777/tcp,7778/tcp}
+firewall-cmd --reload
