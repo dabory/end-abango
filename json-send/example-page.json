@@ -1,8 +1,0 @@
-{
-	"Query": "mb_no>0 and mb_id='admin'",
-	"Fields": "mb_no,mb_id",
-	"Asc": "mb_no,mb_id",
-	"Desc": "mb_name",
-	"Limit": 10,
-	"Offset": 0
-}

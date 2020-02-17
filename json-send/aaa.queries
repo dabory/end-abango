@@ -1,2 +1,0 @@
-SELECT * FROM `logger` order by id desc
-SELECT * FROM `user_device` order by id desc

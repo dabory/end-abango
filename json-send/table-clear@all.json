@@ -1,7 +1,0 @@
-{
-	"AuthToken": "dkadlskoieumnvcxpu",
-	"Queries": [
-		{ "Query": "DELETE FROM `user_device` WHERE 1" },
-		{ "Query": "DELETE FROM `device_log` WHERE 1" }
-	]
-}

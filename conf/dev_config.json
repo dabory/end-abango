@@ -7,7 +7,7 @@
 
 	{ "Key": "ShowReceivedJson", "Value": "Yes" },
 
-	{ "Key": "ApiType", "Value": "Rest" },
+	{ "Key": "ApiType", "Value": "Kafka" },
 	{ "Key": "AppName", "Value": "Dabory e-Commerse" },
 	{ "Key": "SiteName", "Value": "Dabory" },
 
