@@ -2,5 +2,4 @@
 
 ## Running the server and client
 
-Notice : Quickstart is noticed in https://github.com/dabory/abango
-
+Notice : Quickstart is noticed in [https://github.com/dabory/abango](https://github.com/dabory/abango)
