@@ -1,6 +1,6 @@
-# How to user example of abango client ; End-abango
+# Example of abango service ; Svc-abango
 
-## Running the server and client. This return ask value to be return.
+## Running the server and client
 
-`$ go run main.go login`
+Notice : Quickstart is noticed in https://github.com/dabory/abango
 
