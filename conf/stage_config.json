@@ -12,7 +12,7 @@
 	{ "Key": "SiteName", "Value": "Dabory" },
 
 	{ "Key": "KafkaTopic", "Value": "dbr-basic" },
-	{ "Key": "KafkaAddr", "Value": "0.0.0.0" },
+	{ "Key": "KafkaAddr", "Value": "49.247.7.101" },
 	{ "Key": "KafkaPort", "Value": "19092" },
 	{ "Key": "KafkaCosumerTimeout", "Value": "1" },
 
