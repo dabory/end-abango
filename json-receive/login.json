@@ -1,4 +1,6 @@
 {
-    "UserId": "admin",
-    "Password": "admin-password"
+  "SvcStatus": "200",
+  "SvcMsg": "Everything is OK",
+  "UserId": "admin",
+  "Password": "admin-password"
 }
